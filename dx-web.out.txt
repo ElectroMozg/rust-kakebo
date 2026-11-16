@@ -1,0 +1,67 @@
+[2m   1.71s[0m [32m INFO[0m -----------------------------------------------------------------
+                Serving your app: kakebo! 🚀
+                • Press [33m`ctrl+c`[0m to exit the server
+                • Press [33m`r`[0m to rebuild the app
+                • Press [33m`p`[0m to toggle automatic rebuilds
+                • Press [33m`v`[0m to toggle verbose logging
+                • Press [33m`/`[0m for more commands and shortcuts
+                Learn more at [34mhttps://dioxuslabs.com/learn/0.7/getting_started[0m
+               ----------------------------------------------------------------
+[2m  12.319s[0m [32m INFO[0m Build completed successfully in [33m3.75s[0m, launching app! 💫
+[2m 349.60s[0m [32m INFO[0m Build completed in [33m14.79s[0m
+[2m 350.434s[0m [32m INFO[0m Hotreloading: [32m\src\views\month.rs[0m 
+[2m 634.285s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 634.301s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 634.604s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 634.617s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 634.645s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 634.657s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 635.558s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 635.571s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 635.620s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 635.632s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 636.137s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 636.149s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 636.245s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 636.257s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 636.418s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 636.432s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 636.549s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 636.564s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 636.609s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 636.622s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 637.115s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 637.128s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 637.465s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 637.953s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 637.966s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 657.361s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 657.372s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m 866.336s[0m [32m INFO[0m Build completed in [33m13.40s[0m
+[2m 867.725s[0m [32m INFO[0m Hotreloading: [32m\src\components\date_picker\component.rs[0m 
+[2m1083.782s[0m [32m INFO[0m Build completed in [33m13.48s[0m
+[2m1085.168s[0m [32m INFO[0m Hotreloading: [32m\src\components\date_picker\component.rs[0m 
+[2m1184.748s[0m [32m INFO[0m Build completed in [33m14.37s[0m
+[2m1364.148s[0m [32m INFO[0m Build completed in [33m10.45s[0m
+[2m1365.512s[0m [32m INFO[0m Hotreloading: [32m\src\components\date_picker\component.rs[0m 
+[2m1384.221s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m1384.239s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m1384.915s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m1386.261s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m1386.273s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m1401.958s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m1401.993s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m1652.210s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m1652.225s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m1938.464s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m1938.498s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m2042.283s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m2042.337s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m2151.27s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m2151.884s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m2151.901s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m2152. 7s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m2152.20s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m2290.424s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m2290.473s[0m [32m INFO[0m Hotreloading: [32m\assets\tailwind.css[0m 
+[2m43838.875s[0m [31mERROR[0m Application [server] exited with error: exit code: 0xc000013a
